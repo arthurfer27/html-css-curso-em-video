@@ -1,0 +1,8 @@
+MATERIAIS
+https://github.com/gustavoguanabara/html-css/tree/master/aulas-pdf
+
+DESAFIOS
+https://github.com/gustavoguanabara/html-css/tree/master/desafios/modulo-01
+
+EXERCÍCIOS
+https://gustavoguanabara.github.io/html-css/exercicios/
